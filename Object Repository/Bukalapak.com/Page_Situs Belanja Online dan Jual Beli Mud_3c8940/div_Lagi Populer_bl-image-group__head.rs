@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lagi Populer_bl-image-group__head</name>
+   <tag></tag>
+   <elementGuidId>eac900cd-255e-4612-b466-4117c2057a80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bl-image-group__head</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homepage-home-section-app']/div/section/div/div[2]/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dfe610b-6377-48ba-b909-381dc680fe45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-image-group__head</value>
+      <webElementGuid>d10f009f-016f-4c76-aa9d-dbb41607fdcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homepage-home-section-app&quot;)/div[@class=&quot;below-fold-elem&quot;]/section[@class=&quot;bl-section category-section mt-48&quot;]/div[@class=&quot;bl-container&quot;]/div[@class=&quot;bl-image-group&quot;]/div[@class=&quot;bl-flex-container is-gutter-20&quot;]/div[@class=&quot;bl-flex-item bl-image-group__item&quot;]/a[@class=&quot;bl-image-group__wrapper&quot;]/div[@class=&quot;bl-image-group__head&quot;]</value>
+      <webElementGuid>673be63a-b42f-4949-9fd4-1e7036727c64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homepage-home-section-app']/div/section/div/div[2]/div/div/a/div</value>
+      <webElementGuid>8abd0598-2fa3-4f78-a7b0-8081abc311fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lagi Populer'])[1]/following::div[5]</value>
+      <webElementGuid>3cd6b27a-2984-4615-8c10-26c0d1c2b12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yuk, keliling Mall!'])[1]/following::div[75]</value>
+      <webElementGuid>3a8ec53f-9e70-4b64-a025-70975ceb3367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencarian Populer'])[1]/preceding::div[15]</value>
+      <webElementGuid>15536556-436f-4399-9228-f5a95c5f7ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[3]/preceding::div[16]</value>
+      <webElementGuid>95aa5b0b-ce06-4ccf-a86e-5ac4be594300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div/div/a/div</value>
+      <webElementGuid>7217892e-e98d-4cf5-bf18-2ce4e547e611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
